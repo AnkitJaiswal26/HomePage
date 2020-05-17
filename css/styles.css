@@ -396,7 +396,7 @@ h2{
         text-align: center;
     }
 
-    .pricing, .happyclients, .contactus{
+    .pricing, .happyclients, .contactus, .categories{
         height: auto;
         margin-top: 50px;
     }
